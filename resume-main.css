@@ -1,0 +1,31 @@
+.jumbotron.aboutmetext{
+  text-align: center;
+
+}
+.display-4.education-header{
+  text-align: center;
+}
+.container-fluid.education{
+  text-align: center;
+  /* line-height: 2px; */
+}
+.mask-card{
+  padding-left: 250px;
+
+  text-align: center;
+  /* text-align: center; */
+}
+p.mask-text{
+  line-height: 45px;
+}
+@media only screen and (max-width: 767px) {
+  .degree-text{
+    border: 2px solid grey;
+    margin:  17px;
+    padding-top: 5px;
+  }
+  .mask-card{
+    padding-left: 10px;
+
+  }
+}
